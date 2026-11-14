@@ -22,7 +22,7 @@ Every TV has both, and they can be installed together:
 |---|---|---|
 | What it is | The interface as a web page, the version people have used for years | The same app rewritten in C, drawn by the TV's own graphics chip |
 | Best for | Everyday use | Weaker TVs, or anyone who wants the smoothest scrolling |
-| Status | **Stable, recommended** | **In test**: faster, but expect rough edges |
+| Status | **Stable, recommended** | **Beta**, not stable yet: faster, but expect rough edges |
 
 Your account, library and settings carry over: on its first start the native version takes them from the web one, so there is no need to sign in again.
 
