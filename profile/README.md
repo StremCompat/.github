@@ -28,7 +28,7 @@ Every TV has both, and they can be installed together:
 
 | | **StremCompat** | **StremCompat Native** |
 |---|---|---|
-| What it is | The interface as a web page, the version people have used for years | The same app rewritten in C, drawn by the TV's own graphics chip |
+| What it is | The interface as a web page, the original version of the app | The same app rewritten in C, drawn by the TV's own graphics chip |
 | Best for | Everyday use | Weaker TVs, or anyone who wants the smoothest scrolling |
 | Status | **Stable, recommended** | **Beta**, not stable yet: faster, but expect rough edges |
 

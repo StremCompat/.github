@@ -28,7 +28,7 @@ Toda TV tem as duas, e elas podem ser instaladas juntas:
 
 | | **StremCompat** | **StremCompat Native** |
 |---|---|---|
-| O que é | A interface como página web, a versão que o pessoal usa há anos | O mesmo app reescrito em C, desenhado pelo chip gráfico da própria TV |
+| O que é | A interface como página web, a versão original do app | O mesmo app reescrito em C, desenhado pelo chip gráfico da própria TV |
 | Melhor para | O uso do dia a dia | TVs mais fracas, ou quem quer a rolagem mais suave |
 | Situação | **Estável, recomendada** | **Beta**, ainda não estável: mais rápida, mas pode ter falhas |
 
