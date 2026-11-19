@@ -2,9 +2,17 @@
 
 <p align="center"><img src="assets/stremcompat-hero-en.png" alt="StremCompat home screen" width="1000"></p>
 
-Your Stremio or Nuvio account and addons on TVs the official apps left behind: older LG webOS sets, Samsung Tizen and Android TV. Unofficial, free, and it needs no root.
+<p align="center">
+  <img alt="LG webOS 3 and newer" src="https://img.shields.io/badge/LG%20webOS-3%20and%20newer-0F766E">
+  <img alt="Samsung Tizen 4 and newer" src="https://img.shields.io/badge/Samsung%20Tizen-4%20and%20newer-0F766E">
+  <img alt="Android TV 7.0 and newer" src="https://img.shields.io/badge/Android%20TV-7.0%20and%20newer-0F766E">
+  <img alt="No root required" src="https://img.shields.io/badge/root-not%20required-2ea44f">
+  <a href="https://buymeacoffee.com/Alexesmm"><img alt="Buy me a coffee" src="https://img.shields.io/badge/support-Buy%20me%20a%20coffee-ffdd00?logo=buymeacoffee&logoColor=black"></a>
+</p>
 
-*Sua conta Stremio ou Nuvio e seus addons nas TVs que os apps oficiais deixaram de lado. Não oficial, gratuito e sem root.*
+<p align="center"><b>English</b> · <a href="README.pt.md">Português</a></p>
+
+Your Stremio or Nuvio account and addons on TVs the official apps left behind: older LG webOS sets, Samsung Tizen and Android TV. Unofficial, free, and it needs no root.
 
 ## Pick your TV
 
